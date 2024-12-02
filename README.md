@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Liam Di Cerbo!  
 
-<!--
-**Ezeliam/Ezeliam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile 🚀. I'm a Frontend Developer passionate about making intuitive and stunning designs.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me  
+- 🌱 **Currently learning:** Machine Learning.  
+- 🎯 **My goal:** Be an IA ingineer.  
+- ⚡ **Fun fact:** I play the bass.  
+
+---
+
+## 🛠️ Skills  
+- **Languages:** JavaScript, Python, PHP  
+- **Frameworks:** React, Springboot, Bootstrap  
+- **Databases:** MySQL
+- **Tools:** Git, Postman  
+
+---
+
+## 📊 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ezeliam&show_icons=true&theme=radical)
+
+
+---
+
+## 📫 Contact Me  
+- **Email:** liamdicerbo@gmaail.com 
+- **LinkedIn:** (https://linkedin.com/in/yourusername)  
+- **Portfolio:** n/n 
+
