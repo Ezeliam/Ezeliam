@@ -26,7 +26,7 @@ Welcome to my GitHub profile 🚀. I'm a Frontend Developer passionate about mak
 ---
 
 ## 📫 Contact Me  
-- **Email:** liamdicerbo@gmaail.com 
-- **LinkedIn:** (https://linkedin.com/in/yourusername)  
+- **Email:** liamdicerbo@gmail.com 
+- **LinkedIn:** (http://linkedin.com/in/liam-di-cerbo)
 - **Portfolio:** n/n 
 
