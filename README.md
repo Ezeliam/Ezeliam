@@ -13,7 +13,7 @@ Welcome to my GitHub profile 🚀. I'm a Frontend Developer passionate about mak
 
 ## 🛠️ Skills  
 - **Languages:** JavaScript, Python, PHP  
-- **Frameworks:** React, Springboot, Bootstrap  
+- **Frameworks:** React, NextJS, Bootstrap  
 - **Databases:** MySQL
 - **Tools:** Git, Postman  
 
