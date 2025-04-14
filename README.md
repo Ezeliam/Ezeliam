@@ -6,7 +6,7 @@ Welcome to my GitHub profile 🚀. I'm a Frontend Developer passionate about mak
 
 ## 🌟 About Me  
 - 🌱 **Currently learning:** Machine Learning.  
-- 🎯 **My goal:** Be an IA ingineer.  
+- 🎯 **My goal:** Be an AI ingineer.  
 - ⚡ **Fun fact:** I play the bass.  
 
 ---
